@@ -1,5 +1,8 @@
-## Hi there 👋
+# 💫 About Me:
+My name is Tony and I'm a fourth year student pursuing a degree in computer science. I like creating user-friendly and appealing web apps in my free time.
 
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 <!--
 **Tony0117Y/Tony0117Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
